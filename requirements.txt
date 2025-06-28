@@ -1,0 +1,6 @@
+gradio
+pytesseract
+opencv-python-headless
+numpy
+Pillow
+deep-translator
